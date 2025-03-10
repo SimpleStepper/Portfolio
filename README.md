@@ -19,6 +19,16 @@ This Python project is the second project in Google's Advanced Data Analytics Co
 
 #### *Technical Skills: Python, Pandas, Matplotlib, Seaborn, Data visualization, Data Cleaning
 
+### College Project Repository 
+---
+####Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/College-Presentations)
+This is a repository featuring several different projects created during different courses at UNT. These include:
+- **Pathways to a Greener Future: CO₂ Emissions** - This project examines global CO₂ emissions trends from 1960 to 2022 to identify key contributors, and propose data-driven solutions to support a 15% reduction target by 2030. The analysis was conducted using Excel, Tableau, and Power BI, leveraging the Six Sigma DMAIC methodology to ensure a structured and effective approach.
+- **Waiting Line Analysis - Froth Coffee Bar** - This project analyzes utilizes descriptive statistics, probability distributions, and Monte Carlo simulations to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using Excel.
+- **Amazon's Strategic Innovation** - This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions by leveraging vertical integration and data-driven logistics optimization
+
+#### *Technical Skills: PowerPoint, Excel, Tableau, Power BI, Data visualization, Data Organizing, Slide Creation
+
 ### Dating Application Data Warehousing  
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
