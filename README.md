@@ -17,7 +17,7 @@ This Python project is the second project in Google's Advanced Data Analytics Co
 - Building Visualizations
 - Evaluating and sharing results
 
-#### *Technical Skills: Python, Pandas, Matplotlib, Seaborn, Data visualization, Data Cleaning
+#### Technical Skills: Python, Pandas, Matplotlib, Seaborn, Data visualization, Data Cleaning
 
 ### College Project Repository 
 ---
@@ -27,7 +27,7 @@ This is a repository featuring several different projects created during differe
 - **Waiting Line Analysis - Froth Coffee Bar** - This project analyzes utilizes descriptive statistics, probability distributions, and Monte Carlo simulations to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using Excel.
 - **Amazon's Strategic Innovation** - This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions by leveraging vertical integration and data-driven logistics optimization
 
-#### *Technical Skills: PowerPoint, Excel, Tableau, Power BI, Data visualization, Data Organizing, Slide Creation
+#### Technical Skills: PowerPoint, Excel, Tableau, Power BI, Data visualization, Data Organizing, Slide Creation
 
 ### Dating Application Data Warehousing  
 ---
@@ -38,7 +38,7 @@ As part of my Data Warehousing course at UNT, I developed a comprehensive data w
 - Implementing an SQL-based data warehouse to organize and store application data.
 - Creating an interactive Power BI dashboard to present insights offering a clear view of user trends and engagement metrics.
 
-#### *Technical skills: Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization*
+#### Technical skills: Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization*
 
 ### TikTok Data Exploration - GADA Project 1 
 ---
@@ -48,6 +48,6 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
  - Develop exploratory statistics (mean, median, min, max) and develop initial observations of the dataset
  - Organize the data for further data analysis in future projects. 
 
-#### *Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy*
+#### Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy*
 
 
