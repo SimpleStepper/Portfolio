@@ -38,7 +38,7 @@ As part of my Data Warehousing course at UNT, I developed a comprehensive data w
 - Implementing an SQL-based data warehouse to organize and store application data.
 - Creating an interactive Power BI dashboard to present insights offering a clear view of user trends and engagement metrics.
 
-#### Technical skills: Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization*
+#### Technical skills: Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization
 
 ### TikTok Data Exploration - GADA Project 1 
 ---
@@ -48,6 +48,6 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
  - Develop exploratory statistics (mean, median, min, max) and develop initial observations of the dataset
  - Organize the data for further data analysis in future projects. 
 
-#### Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy*
+#### Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy
 
 
