@@ -20,7 +20,7 @@ The scope of this project is:
 - Presenting Stakeholder Recommendations
 
 #### Technical Skills: Python, Pandas, Seaborn, Scikit-learn, Matplotlib, Random Forest, Data Visualization, EDA, Classification Models
-
+--
 ### College Project Repository 
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/College-Presentations)
@@ -30,19 +30,7 @@ This is a repository featuring several different projects created during differe
 - **Amazon's Strategic Innovation** - This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions by leveraging vertical integration and data-driven logistics optimization
 
 #### Technical Skills: PowerPoint, Excel, Tableau, Power BI, Data visualization, Data Organizing, Slide Creation
-
-### Waze Exploratory Data Analysis (EDA) and Data Cleaning - GADA Project 2 
----
-#### Project Link - [Waze Exploratory Data Analysis and Data Cleaning](https://github.com/SimpleStepper/WazeEDA)
-This Python project is the second project in Google's Advanced Data Analytics Course. It focused on performing the EDA process and clean data on a dataset provided by Waze to predict user churn. The scope of this project stage is: 
-- Data Exploration 
-- Data Cleaning
-- Handle Outliers
-- Building Visualizations
-- Evaluating and sharing results
-
-#### Technical Skills: Python, Pandas, Matplotlib, Seaborn, Data visualization, Data Cleaning
-
+--
 ### Dating Application Data Warehousing  
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
@@ -63,5 +51,17 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
  - Organize the data for further data analysis in future projects. 
 
 #### Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy
+--
+### Waze Exploratory Data Analysis (EDA) and Data Cleaning - GADA Project 2 
+---
+#### Project Link - [Waze Exploratory Data Analysis and Data Cleaning](https://github.com/SimpleStepper/WazeEDA)
+This Python project is the second project in Google's Advanced Data Analytics Course. It focused on performing the EDA process and clean data on a dataset provided by Waze to predict user churn. The scope of this project stage is: 
+- Data Exploration 
+- Data Cleaning
+- Handle Outliers
+- Building Visualizations
+- Evaluating and sharing results
+
+#### Technical Skills: Python, Pandas, Matplotlib, Seaborn, Data visualization, Data Cleaning
 
 
