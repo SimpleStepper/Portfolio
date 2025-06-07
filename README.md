@@ -36,6 +36,7 @@ ___
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
 Data Warehousing Capstone Project – Dating Application Analysis
+
 As part of my Data Warehousing course at UNT, I developed a comprehensive data warehouse and solutions to analyze and visualize key performance indicators (KPIs) for a dating application. The project included:
 - Designing conceptual and logical data models tailored to the application's framework.
 - Implementing an SQL-based data warehouse to organize and store application data.
