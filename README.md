@@ -10,7 +10,7 @@
 ### Employee Attrition Prediction Using Random Forest – Google Advanced Data Analystics Capstone
 ---
 #### Project Link - [Employee Attrition Prediction Using Random Forest](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone)
-This Python project is the final capstone in Google’s Advanced Data Analytics Course. It focused on **developing a predictive model to identify employees at risk of leaving (churn)** Salifort Motors. Using **Exploratory Data Analysis (EDA) and a Random Forest classifier**, the analysis revealed key factors that influence employee attrition, such as satisfaction, workload, and tenure.
+This Python project is the final capstone in Google’s Advanced Data Analytics Course. It focused on **developing a predictive model to identify employees at risk of leaving (employee churn)** Salifort Motors. Using **Exploratory Data Analysis (EDA) and a Random Forest classifier**, the analysis revealed key factors that influence employee attrition, such as satisfaction, workload, and tenure.
 The scope of this project is:
 - Framing the Business Problem
 - Data Cleaning
