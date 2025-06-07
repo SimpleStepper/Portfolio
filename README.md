@@ -20,7 +20,7 @@ The scope of this project is:
 - Presenting Stakeholder Recommendations
 
 #### Technical Skills: Python, Pandas, Seaborn, Scikit-learn, Matplotlib, Random Forest, Data Visualization, EDA, Classification Models
---
+___
 ### College Project Repository 
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/College-Presentations)
@@ -30,7 +30,7 @@ This is a repository featuring several different projects created during differe
 - **Amazon's Strategic Innovation** - This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions by leveraging vertical integration and data-driven logistics optimization
 
 #### Technical Skills: PowerPoint, Excel, Tableau, Power BI, Data visualization, Data Organizing, Slide Creation
---
+___
 ### Dating Application Data Warehousing  
 ---
 #### Project Link - [Dating Application DataWarehousing](https://github.com/SimpleStepper/MatchPlusWarehouse)
@@ -41,7 +41,7 @@ As part of my Data Warehousing course at UNT, I developed a comprehensive data w
 - Creating an interactive Power BI dashboard to present insights offering a clear view of user trends and engagement metrics.
 
 #### Technical skills: Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, Data Visualization
-
+___
 ### TikTok Data Exploration - GADA Project 1 
 ---
 #### Project Link - [TikTok Data Exploration Project](https://github.com/SimpleStepper/GADA_Project_1-TikTok_Data_Exploration)
@@ -51,7 +51,7 @@ This Python project is the first project in Google's Advanced Data Analytics Cou
  - Organize the data for further data analysis in future projects. 
 
 #### Technical Skills: Python, Jupyter Notebooks, Pandas, NumPy
---
+___
 ### Waze Exploratory Data Analysis (EDA) and Data Cleaning - GADA Project 2 
 ---
 #### Project Link - [Waze Exploratory Data Analysis and Data Cleaning](https://github.com/SimpleStepper/WazeEDA)
