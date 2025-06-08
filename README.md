@@ -7,6 +7,7 @@
   - Honors: President's List, Dean's List, 3.8 GPA
 
 Certifications: 
+
 [Google Advanced Data Analytics Certfication](https://www.coursera.org/account/accomplishments/professional-cert/SC7N8MJQCVH3) | [Microsoft Excel Specialist](https://www.credly.com/badges/7b7871ae-86bc-448b-96a3-753a405f55a1/linked_in_profile)
 
 ## Projects
