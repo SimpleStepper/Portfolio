@@ -14,6 +14,8 @@ This is a repository featuring several different projects created during differe
 - Waiting Line Analysis - Froth Coffee Bar - This project analyzes utilizes descriptive statistics, probability distributions, and Monte Carlo simulations to identify bottlenecks, evaluate service capacity, and recommend data-driven solutions using Excel.
 - Amazon’s Strategic Innovation - This project analyzes Amazon’s innovative strategies to mitigate supply chain disruptions by leveraging vertical integration and data-driven logistics optimization
 
+**This project was original created in a GitHub Repository. If you experience any formatting issues, please view the [original GitHub project](https://github.com/SimpleStepper/College-Presentations).**
+
 # Table of Content
 
 1)  [CO₂ Emissions Project](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#-pathways-to-a-greener-future-co-emissions---project-link)
