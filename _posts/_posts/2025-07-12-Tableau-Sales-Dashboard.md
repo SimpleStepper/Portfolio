@@ -1,11 +1,14 @@
 ---
-title: "Tableau Sales & Customer Interactive Dashboard"
+title: "Layout: Header Image (Horizontal)"
+header:
+  image: <img width="1357" height="764" alt="image" src="https://github.com/user-attachments/assets/22aa5637-8d2b-46e0-9bf7-0bcbe6906dd5" />
+  caption: "Tableau Sales Dashboard"
 categories:
   - Dashboard
-  - Data Visualization
+  - Tableau/PowerBI
 tags:
   - Dashboard
-  - Tableau
+  - Tableau/PowerBI
 ---
 The scope of this project is to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. 
 
