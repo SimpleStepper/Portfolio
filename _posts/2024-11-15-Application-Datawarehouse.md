@@ -19,7 +19,18 @@ The project included three parts:
 - **Power BI Dashboard:** Designing an interactive dashboard to showcase key performance indicators in a clear and actionable way.
 
 **This project was original created in a GitHub Repository. If you experience any formatting issues, please view the [original GitHub project](https://github.com/SimpleStepper/MatchPlusWarehouse).**
-## Technical Skills - **Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, ETL, Data Visualization**
+
+## Technical Skills - Data Modeling, SQL, SSMS, Data Warehousing, PowerBI, Dashboard Development, ETL, Data Visualization
+
+## Data Visualization 
+
+[The full interactive PowerBI Dashboard can be found here](https://app.powerbi.com/groups/me/reports/1fc12281-522e-46fc-ba79-153c268183cf/ReportSection?ctid=70de1992-07c6-480f-a318-a1afcba03983&experience=power-bi)
+
+Using PowerBI, the interactive dashboard was created to **highlight key statistics** within our data base for fast and easy decision making. The dashboard highlights KPI's such as **age, gender, education levels, ethnicity, location and Interest** for analytical decision making. The goal of this dashboard was to create something that matched the websites color scheme, allow data to be **easily interpreted and provide filters** (such as male or female) to allow quick analysis over the dating applications userbase. 
+
+![alt text](https://github.com/SimpleStepper/MatchPlusWarehouse/blob/main/assets/MatchPlusDashboard.png)
+
+Due to PowerBI interacting with our logical dataset, the dashboard is interactable and can be analyzed further by clicking on any given category when opened in PowerBI.
 
 
 ## Modeling
@@ -46,12 +57,3 @@ used to create each table in the data warehouse. SSMS was used to create the dat
 
 This showcases the initial code of the database in SSMS and fictional data generated to populate the tables. SQL database diagram which matches our planned relational schema, which means our data is properly linked with primary keys and relates to the core "User" table.
 
-## Data Visualization 
-
-[The full interactive PowerBI Dashboard can be found here](https://app.powerbi.com/groups/me/reports/1fc12281-522e-46fc-ba79-153c268183cf/ReportSection?ctid=70de1992-07c6-480f-a318-a1afcba03983&experience=power-bi)
-
-Using PowerBI, the interactive dashboard was created to **highlight key statistics** within our data base for fast and easy decision making. The dashboard highlights KPI's such as **age, gender, education levels, ethnicity, location and Interest** for analytical decision making. The goal of this dashboard was to create something that matched the websites color scheme, allow data to be **easily interpreted and provide filters** (such as male or female) to allow quick analysis over the dating applications userbase. 
-
-![alt text](https://github.com/SimpleStepper/MatchPlusWarehouse/blob/main/assets/MatchPlusDashboard.png)
-
-Due to PowerBI interacting with our logical dataset, the dashboard is interactable and can be analyzed further by clicking on any given category when opened in PowerBI.
