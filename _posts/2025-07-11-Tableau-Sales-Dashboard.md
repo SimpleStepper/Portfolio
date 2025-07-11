@@ -7,7 +7,7 @@ tags:
   - Dashboard
   - Tableau
 ---
-The scope of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. 
+The scope of this project is to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. 
 
 The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. 
 
