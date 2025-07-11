@@ -5,12 +5,12 @@ title: "About"
 
 Hi, I’m **Robert Smith** — a recent graduate from the University of North Texas with a B.B.A. in Business Analytics with honors, passionate about using data to tell meaningful stories and solve real-world problems.
 
-Through hands-on projects and academic experiences, I've developed a strong foundation in data cleaning, data analysis, dashboard development, and predictive modeling. 
+Through hands-on projects and academic experiences, I've developed a strong foundation in data cleaning, data analysis, and interactive dashboard development. 
 
 I’m certified in Google Advanced Data Analytics, Microsoft Excel, and IBM SQL Databases for Data Science. I'm always eager to keep learning, and I'm actively seeking a data analyst role where I can contribute insights and grow with a collaborative team.
 
 ## Education
-- **B.B.A. in Business Analytics | University of North Texas**
+- B.B.A. in Business Analytics | University of North Texas
   - Honors: President's List, Dean's List, 3.8 GPA
 
 Certifications: 
