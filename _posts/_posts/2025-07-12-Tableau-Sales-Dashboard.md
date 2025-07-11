@@ -1,7 +1,8 @@
 ---
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: <img width="1357" height="764" alt="image" src="https://github.com/user-attachments/assets/22aa5637-8d2b-46e0-9bf7-0bcbe6906dd5" />
+  image: <img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/cbc97f3e-dbac-439e-860d-eaef30dc1df7" />
+
   caption: "Tableau Sales Dashboard"
 categories:
   - Dashboard
