@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Robert Smith"
   avatar : "assets/images/me2 (1).png"
-  bio    : "This is my online portfolio to showcase data analytics projects."
+  bio    : "This is my online portfolio to showcase data analytics projects. Connect with me below:"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
