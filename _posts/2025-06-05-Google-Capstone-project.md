@@ -1,13 +1,17 @@
 ---
 title: "Predicting Employee Attrition with Random Forest Model - Google Advanced Analytics Capstone"
 categories:
-  - Dashboard
+  - Python
   - Data Visualization
+  - Scikit-learn
+  - Seaborn
+  - Classification Models
+  - Matplotlib
 tags:
   - Dashboard
   - Tableau
 ---
-The objective of this project is to **develop a predictive model** to identify employees at risk of leaving Salifort Motors. Leveraging **exploratory data analysis (EDA)** and a **Random Forest algorithm**, the analysis focused on internal HR and employee survey data to uncover the key drivers of turnover.
+This Python project is the final capstone in Google’s Advanced Data Analytics Course. It focused on developing a predictive model to identify employees at risk of leaving (employee churn) Salifort Motors. Using Exploratory Data Analysis (EDA) and a Random Forest classifier, the analysis revealed key factors that influence employee attrition, such as satisfaction, workload, and tenure.
 
 **This project was original created in a GitHub Repository. If you experience any formatting issues, please view the [original GitHub project](https://github.com/SimpleStepper/Google-Advanced-Analytics-Capstone?tab=readme-ov-file#google-advanced-analytics-capstone).**
 
@@ -21,6 +25,7 @@ The objective of this project is to **develop a predictive model** to identify e
 --- 
 
 ## Define - Overview
+
 The objective of this project was to **develop a predictive model** to identify employees at risk of leaving Salifort Motors. Leveraging **exploratory data analysis (EDA)** and a **Random Forest algorithm**, the analysis focused on internal HR and employee survey data to uncover the key drivers of turnover.
 
 The project followed the **DMAIC framework**—Define, Measure, Analyze, Improve, and Control—to ensure a structured and data-driven approach. The final model achieved strong performance, highlighting **employee satisfaction, tenure, and workload** as the top predictors of turnover. These insights offer actionable guidance for Salifort Motors leadership to proactively identify retention risks.
