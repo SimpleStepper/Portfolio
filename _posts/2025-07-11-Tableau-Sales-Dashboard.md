@@ -11,12 +11,11 @@ The scope of this project is to create an interactive customer dashboard in Tabl
 
 The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. 
 
+![Tableau gif](https://github.com/user-attachments/assets/7c8b4557-4b38-4da2-9463-e3b7dba06a64)
+
 While this project focuses on the creation of the "customers" dashboard, both dashboards were created by me in request of the client below.
 
 **This project was original created in a GitHub Repository. If you experience any formatting issues, please view the [original GitHub project](https://github.com/SimpleStepper/Tableau-Sales-Dashboard).**
-
-![Tableau gif](https://github.com/user-attachments/assets/7c8b4557-4b38-4da2-9463-e3b7dba06a64)
-
 
 The final interactive dashboard can be viewed on Tableau Public here: [Sales & Customer Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/shared/QQRF2PZGP)
 
