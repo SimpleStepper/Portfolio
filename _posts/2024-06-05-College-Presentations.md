@@ -19,17 +19,25 @@ This is a repository featuring several different projects created during differe
 # Table of Content
 
 1)  [CO₂ Emissions Project](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#-pathways-to-a-greener-future-co-emissions---project-link)
-2)  [Waiting Line Analysis](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#waiting-line-analysis---froth-coffee-bar---project-link)
-3)  [Amazon Strategic Innovations](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#optimizing-supply-chain-efficiency-amazons-strategic-innovations---project-link)
+   
+3)  [Waiting Line Analysis](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#waiting-line-analysis---froth-coffee-bar---project-link)
+   
+5)  [Amazon Strategic Innovations](https://github.com/SimpleStepper/College-Presentations/blob/main/README.md#optimizing-supply-chain-efficiency-amazons-strategic-innovations---project-link)
+   
 ## <a name="CO₂-Emissions"></a> Pathways to a Greener Future: CO₂ Emissions - [Project Link](https://github.com/SimpleStepper/College-Presentations/blob/main/Portfolio%20Projects/Final%20Presentation%20-%20DSCI%204700.pdf)
 ### Project Overview
 This project examines global CO₂ emissions trends from **1960 to 2022** to identify key contributors, and propose data-driven solutions to support a **15% reduction** target **by 2030**. The analysis was conducted using **Excel**, **Tableau**, and **Power BI**, leveraging the Six Sigma **DMAIC methodology** to ensure a structured and effective approach.
 ### DMAIC Approach
 1) Define: Identified key sources of fossil fuel-based CO₂ emissions (industries, transportation, food production).
-2) Measure: Collected and cleaned data from OurWorldInData, ensuring accuracy in global emissions reporting.
-3) Analyze: Discovered a **311% increase in CO₂ emissions** (1960-2022) and identified top contributors **(U.S., China, India, Russia**).
-4) Improve: Developed interactive dashboards to visualize emissions trends and propose actionable insights.
-5) Control: Recommended clean energy initiatives (electric vehicles, renewable energy adoption) to help governments and organizations track progress toward reduction goals.
+   
+3) Measure: Collected and cleaned data from OurWorldInData, ensuring accuracy in global emissions reporting.
+   
+5) Analyze: Discovered a **311% increase in CO₂ emissions** (1960-2022) and identified top contributors **(U.S., China, India, Russia**).
+   
+7) Improve: Developed interactive dashboards to visualize emissions trends and propose actionable insights.
+   
+9) Control: Recommended clean energy initiatives (electric vehicles, renewable energy adoption) to help governments and organizations track progress toward reduction goals.
+    
 ![image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Screenshot%202025-03-10%20132740.png)
 ### Key Findings
 - CO₂ emissions have **increased by 311%** since 1960. Top 4 contributors (U.S., China, India, Russia) account for a significant share of global emissions.
@@ -65,13 +73,13 @@ To optimize customer wait times and service efficiency at Froth Coffee Bar using
  Results indicate that adding a third server significantly improves efficiency, reduces peak-hour congestion, and enhances customer experience.
 ![image](https://github.com/SimpleStepper/College-Presentations/blob/main/Slide%20Visualizations/Frequency%20of%20Customer%20time%20in%20system%20per%20minute.png)
 ### Final Recomendations
-1. Add a Third Server:
+1. Add a Third Server
    - The cost of **hiring another server ($10/hr)** is justified by the increased throughput and customer retention.
    - Reducing bottlenecks improves sales potential during peak hours.
-2. Implement a Self-Service Kiosk:
+2. Implement a Self-Service Kiosk
    - A tablet-based ordering system **($800 one-time cost, 2.6% per transaction fee)** can reduce wait times by shifting order placement to customers.
    - Allows servers to focus on faster order fulfillment.
-3. Optimize Staffing During Off-Peak Hours:
+3. Optimize Staffing During Off-Peak Hours
    - Analysis suggests reducing staff after **2 PM** when demand decreases, cutting labor costs while maintaining efficiency.
 ### Conclusion
 By applying **Monte Carlo simulations** and **data analytics**, this study provides data-driven recommendations that **optimize customer wait times**, **improve service efficiency**, and **enhance overall business performance**. Implementing a third server, self-service kiosks, and online ordering can significantly reduce congestion and increase revenue potential at Froth Coffee Bar.
