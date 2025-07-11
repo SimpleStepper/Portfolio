@@ -3,13 +3,12 @@ title: "Tower Unit Calculator - Data-Driven Cost Calculator"
 categories:
   - Excel
   - Python
-  - Data Visualization
   - Data Cleaning
   - Data Mining
   - Pandas
   - Data Scraping
 tags:
-   - Data Visualization
+  - Data Visualization
   - Data Cleaning
   - Data Mining
 ---
