@@ -6,6 +6,8 @@ categories:
 tags:
   - Tableau
   - update
+layout: single
+author_profile: false
 ---
 The scope of this project was to create an interactive customer dashboard in Tableau to help stakeholders analyze customer behavior, sales trends, and engagement. The dashboard serves as a tool for marketing and management teams to understand key performance indicators (KPIs) for both Sales and Customer insights. While this project focuses on the creation of the "customers" dashboard, both dashboards were created by me in request of the client below.
 
