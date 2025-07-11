@@ -80,9 +80,9 @@ author:
 
 footer:
   links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-   #   url: "https://twitter.com/"
+    - label: "RobertSmithAnalytics@Outlook.com"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:RobertSmithAnalytics@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SimpleStepper"
