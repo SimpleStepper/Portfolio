@@ -89,9 +89,7 @@ footer:
    # - label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
    #   url: "https://instagram.com/"
-    - label: "RobertSmithAnalytics@Outlook.com"
-      icon: "fas fa-fw fa-link"
-      url: "mailto:RobertSmithAnalytics@outlook.com"
+
 
 defaults:
   # _posts
