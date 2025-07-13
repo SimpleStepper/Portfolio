@@ -51,7 +51,9 @@ df_cleaned
 ```
 For a non-technical description of the process: 
 1) **Removed any non-numeric characters** (like dashes, spaces, or brackets) so we were left with just digits.
+   
 2) **Handled any missing numbers** by treating them as blanks.
+
 3) **Reformatted the numbers to a clean, consistent layout**: 123-456-7890.
 
 This process makes the phone numbers reliable and ready for use in things like customer calls, mail merges, or importing into CRM tools.
@@ -84,6 +86,7 @@ df_cleaned
 To make sure the final call list only includes valid and reachable customers, we applied two filters:
 
 1) **Removed anyone without a phone number** — if there’s no number, they can’t be contacted.
+  
 2) **Excluded customers who opted out** — anyone marked as "Do Not Contact" was removed from the list.
    
 After filtering, the list was reset and cleaned up, making it ready for export to Excel so a customer service rep or sales team can use it without any issues.
