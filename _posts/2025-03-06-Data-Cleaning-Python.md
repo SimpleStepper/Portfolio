@@ -21,11 +21,17 @@ The jupyter notebook with code for this project can be found here: [Python Custo
 ---
 # Task performed
 1) Imported and inspected raw Excel data
+   
 2) Removed duplicate records and unnecessary columns
+   
 3) Cleaned up name fields (e.g., stripping symbols from Last_Name)
+   
 4) Reformatted phone numbers to a consistent XXX-XXX-XXXX structure using regex
+   
 5) Split a single address column into Street_Address, State, and Zip_Code
+    
 6) Standardized categorical fields like Paying Customer and Do_Not_Contact to consistent Yes/No values
+    
 7) Filtered dataset and exported to Excel for Customer Service 
 --- 
 # Key Data Cleaning Highlights
