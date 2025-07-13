@@ -16,8 +16,6 @@ This project focuses on cleaning and standardizing a customer call list dataset 
 
 **This project was original created in a GitHub Repository. If you experience any formatting issues, please view the [original GitHub project](https://github.com/SimpleStepper/Python-Data-Cleaning-with-Pandas).**
 
-The jupyter notebook with code for this project can be found here: [Python Customer Calls Data Cleaning with Panfas]("https://github.com/SimpleStepper/Python-Data-Cleaning-with-Pandas/blob/main/Clean%20Dataset%20Pandas.ipynb")
-
 ---
 # Task performed
 1) Imported and inspected raw Excel data
