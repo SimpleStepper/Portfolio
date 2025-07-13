@@ -30,7 +30,8 @@ This project focuses on cleaning and standardizing a customer call list dataset 
     
 6) Standardized categorical fields like Paying Customer and Do_Not_Contact to consistent Yes/No values
     
-7) Filtered dataset and exported to Excel for Customer Service 
+7) Filtered dataset and exported to Excel for Customer Service
+   
 --- 
 # Key Data Cleaning Highlights
 ## Phone Number Reformatting
