@@ -3,7 +3,7 @@ title: "Grade Distribution Dashboards"
 categories:
   - Excel
   - Tableau
-  - -PowerBI
+  - PowerBI
   - Data Visualization
 tags:
   - Data Visualization
