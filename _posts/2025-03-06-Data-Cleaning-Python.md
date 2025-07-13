@@ -49,6 +49,7 @@ df_cleaned["Phone_Number"] = df_cleaned['Phone_Number'].replace("--","") # Repla
 df_cleaned
 ```
 For a non-technical description of the process: 
+
 1) **Removed any non-numeric characters** (like dashes, spaces, or brackets) so we were left with just digits.
    
 2) **Handled any missing numbers** by treating them as blanks.
